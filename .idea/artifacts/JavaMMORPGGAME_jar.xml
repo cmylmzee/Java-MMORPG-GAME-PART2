@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaMMORPGGAME:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaMMORPGGAME_jar</output-path>
+    <root id="archive" name="JavaMMORPGGAME.jar">
+      <element id="module-output" name="JavaMMORPGGAME" />
+    </root>
+  </artifact>
+</component>
